@@ -1,0 +1,31 @@
+{
+    "1542": {
+        "name": "Передні двері л." ,
+        "cost": 822,
+        "description": "Двері передні ліві ",
+        "order": 2,
+        "img": "front_door.png"
+    },
+    "1543": {
+        "name": "Дзеркало  л." ,
+        "cost": 232,
+        "description": "Дзеркало бокове ліве ",
+        "order": 1,
+        "img": "door_mirror.png"
+    },
+    "1544": {
+        "name": "Фари" ,
+        "cost": 1650,
+        "description": "Фари головні ",
+        "order": 3,
+        "img": "headlights.png"
+    },
+    "1545": {
+        "name": "Радіатор" ,
+        "cost": 620,
+        "description": "Радіатор охолодження ",
+        "order": 4,
+        "img": "radiator.png"
+    }
+
+}
